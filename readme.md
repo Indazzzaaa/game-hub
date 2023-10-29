@@ -6,6 +6,7 @@
 - npm run dev : to run our server
 - we are using chakra UI in this project,there are many . chakra setup : https://chakra-ui.com/getting-started/vite-guide
 - mosh repo : https://github.com/mosh-hamedani/game-hub/tree/main/src/assets
+- We'll me making this : https://rawg.io/
 - We are following convention of importing anything to file :
   - First everything from react
   - Then third party library
