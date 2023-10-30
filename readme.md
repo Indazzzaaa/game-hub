@@ -11,3 +11,8 @@
   - First everything from react
   - Then third party library
   - Then our own.
+
+
+# Libraries
+
+- React icons : npm i react-icons@4.7.1
