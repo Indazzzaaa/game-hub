@@ -10,6 +10,8 @@ import router from "./routes";
 
 const queryClient = new QueryClient();
 
+document.title = "GameHub";
+
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
     <ChakraProvider theme={theme}>
